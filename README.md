@@ -1,9 +1,10 @@
 # Dave's Profile *(He/Him)*
 
 ### I'm currently learning the following:
-1. JavaScript
-2. Node.js
-3. Git and Github
+1. Java
+2. JavaScript
+3. Node.js
+4. Git and Github
 
 ### I'm collaboring on the following:
 1. I'm working on building an backend server that interfaces with another server
