@@ -3,6 +3,7 @@
 ### I'm currently learning the following:
 1. Java
 2. MySQLWorkBench
+3. Docker
 
 
 ### I'm collaboring on the following:
@@ -16,3 +17,4 @@
 5. Puppeteer
 6. Firestore (Functions and database in JavaScript)
 7. AWS (mostly SES, SNS, and Lambda)
+8. JUnit (testing for Java)
