@@ -2,19 +2,20 @@
 
 ### I'm currently learning the following:
 1. Java
-2. MySQLWorkBench
-3. Docker
 
 
 ### I'm collaboring on the following:
-1. I'm working on building an backend server that interfaces with another server
+1. I'm working on building an backend server (Javascript + Node.js) that interfaces with another server
 
 ### I have learned to use the following:
 1. JavaScript
-2. Node.js
-3. Maven
-4. Spring (XML and Annotations)
-5. Puppeteer
-6. Firestore (Functions and database in JavaScript)
-7. AWS (mostly SES, SNS, and Lambda)
-8. JUnit (testing for Java)
+2. Java
+3. Node.js
+4. Maven
+5. SpringBoot
+6. Puppeteer
+7. Firestore (Functions and database in JavaScript)
+8. AWS (mostly SES, SNS, and Lambda)
+9. JUnit
+10. Docker
+11. MySQLWorkBench
