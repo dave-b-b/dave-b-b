@@ -1,7 +1,8 @@
 # Dave's Profile *(He/Him)*
 
 ### I'm currently learning the following:
-1. Java
+1. React.js
+2. JSX
 
 
 ### I'm collaboring on the following:
