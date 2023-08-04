@@ -2,7 +2,8 @@
 
 ### I'm currently learning the following:
 1. React.js
-2. JSX
+2. React-Bootstrap
+3. JSX
 
 
 ### I'm collaboring on the following:
