@@ -1,9 +1,8 @@
 # Dave's Profile *(He/Him)*
 
 ### I'm currently learning the following:
-1. React.js
-2. React-Bootstrap
-3. JSX
+1. React Native
+2. MongoDB
 
 
 ### I'm collaboring on the following:
@@ -21,3 +20,6 @@
 9. JUnit
 10. Docker
 11. MySQLWorkBench
+12. React.js
+13. React-Bootstrap
+14. JSX
