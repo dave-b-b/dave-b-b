@@ -1,8 +1,8 @@
 # Dave's Profile *(He/Him)*
 
 ### I'm currently learning the following:
-1. React Native
-2. MongoDB
+1. Python
+2. Salesforce
 
 
 ### I'm collaboring on the following:
@@ -23,3 +23,5 @@
 12. React.js
 13. React-Bootstrap
 14. JSX
+15. React Native
+16. MongoDB
