@@ -2,7 +2,6 @@
 
 ### I'm currently learning the following:
 1. Python
-2. Salesforce
 
 
 ### I'm collaboring on the following:
