@@ -7,7 +7,14 @@
 ### I'm collaboring on the following:
 1. I'm working on building an backend server (Javascript + Node.js) that interfaces with another server
 
-### I have learned to use the following:
+### I am most proficient with the following:
+1. JavaScript
+2. Node.js
+3. Puppeteer
+4. Firebase
+5. Jest.js
+
+### I have some experience in the following:
 1. JavaScript
 2. Java
 3. Node.js
