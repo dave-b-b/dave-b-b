@@ -1,7 +1,7 @@
 # Dave's Profile *(He/Him)*
 
 ### I'm currently learning the following:
-1. Python
+1. Ruby
 
 
 ### I'm collaboring on the following:
@@ -9,25 +9,11 @@
 
 ### I am most proficient with the following:
 1. JavaScript
-2. Node.js
-3. Puppeteer
-4. Firebase
-5. Jest.js
+2. Python
+3. SQL
+4. Databricks
 
 ### I have some experience in the following:
-1. JavaScript
-2. Java
-3. Node.js
-4. Maven
-5. SpringBoot
-6. Puppeteer
-7. Firestore (Functions and database in JavaScript)
-8. AWS (mostly SES, SNS, and Lambda)
-9. JUnit
-10. Docker
-11. MySQLWorkBench
-12. React.js
-13. React-Bootstrap
-14. JSX
-15. React Native
-16. MongoDB
+1. Docker
+2. React.js
+3. React Native
