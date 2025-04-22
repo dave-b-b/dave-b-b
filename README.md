@@ -1,19 +1,16 @@
 # Dave's Profile *(He/Him)*
 
 ### I'm currently learning the following:
-1. Ruby
+1. C# and .NET
 
 
 ### I'm collaboring on the following:
-1. I'm working on building an backend server (Javascript + Node.js) that interfaces with another server
+1. Microsoft Leap
 
 ### I am most proficient with the following:
 1. JavaScript
-2. Python
-3. SQL
-4. Databricks
-
-### I have some experience in the following:
-1. Docker
-2. React.js
-3. React Native
+2. Ruby
+3. C#
+4. Python
+5. SQL
+6. Databricks
