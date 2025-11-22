@@ -4,9 +4,9 @@
 1. Java
 
 ### I am most proficient with the following:
-1. JavaScript
-2. Ruby
-3. C#and .NET
+1. JavaScript / Typescript / Node
+2. Ruby / Rails 
+3. C# / .NET
 4. Python
 5. SQL
 6. Databricks
